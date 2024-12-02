@@ -78,7 +78,8 @@ Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://
 
 - 投稿詳細画面: https://wakayama-app-991cb.web.app/post/:id
 - - 選択された投稿の詳細情報を表示
-  - コメントや返信を閲覧・投稿可能(今回はうまく飛べないため、"https://wakayama-app-991cb.web.app/post/post3"などからコミュニケーション例をご覧ください。)
+  - コメントや返信を閲覧・投稿可能(今回はうまく飛べないため、"https://wakayama-app-991cb.web.app/post/post3"
+  - などからコミュニケーション例をご覧ください。)
 
 - 新規投稿画面: https://wakayama-app-991cb.web.app/spot/:id/new-post
 - - スポットに対する新規投稿を作成
