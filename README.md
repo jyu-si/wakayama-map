@@ -55,7 +55,8 @@
 - 認証: Firebase Authentication
 - ライセンス
 
-- このプロジェクトは MIT License のもとで公開されています。
+
+ このプロジェクトは MIT License のもとで公開されています。
 
 
 
