@@ -65,3 +65,21 @@
 This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
 
 Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
+
+# 各URLと機能一覧
+- ホーム画面: https://wakayama-app-991cb.web.app/
+
+- - 和歌山県の地図を表示、地図上のスポットにマーカーを配置し、選択可能
+  - 
+- スポット投稿一覧画面: https://wakayama-app-991cb.web.app/spot/:id
+
+特定のスポットに関連する投稿の一覧を表示
+コメントや画像投稿にアクセス可能
+- 投稿詳細画面: https://wakayama-app-991cb.web.app/post/:id
+
+選択された投稿の詳細情報を表示
+コメントや返信を閲覧・投稿可能
+- 新規投稿画面: https://wakayama-app-991cb.web.app/spot/:id/new-post
+
+スポットに対する新規投稿を作成
+写真とコメントをアップロード可能
