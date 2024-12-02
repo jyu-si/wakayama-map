@@ -41,21 +41,21 @@
 デプロイ手順
 - ビルド
 -- npm run build
--Firebase Hosting にデプロイ
+- Firebase Hosting にデプロイ
 -- firebase deploy
 
 
--ホスティングURL https://wakayama-app-991cb.web.app/
+- ホスティングURL https://wakayama-app-991cb.web.app/
 
 使用技術
--フレームワーク: Vue.js
--地図API: Google Maps API
--ホスティング: Firebase Hosting
--バックエンド: Firebase Firestore
--認証: Firebase Authentication
--ライセンス
+- フレームワーク: Vue.js
+- 地図API: Google Maps API
+- ホスティング: Firebase Hosting
+- バックエンド: Firebase Firestore
+- 認証: Firebase Authentication
+- ライセンス
 
--このプロジェクトは MIT License のもとで公開されています。
+- このプロジェクトは MIT License のもとで公開されています。
 
 
 
